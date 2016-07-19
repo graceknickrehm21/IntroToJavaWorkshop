@@ -9,7 +9,23 @@ public class MyFirstJavaProgram {
 		// START HERE
 
 	
+		Robot Grace= new Robot();
+		Grace.sparkle();
+		Grace.penDown();
+		Grace.setRandomPenColor();
+		Grace.
+		for (int i = 0; i < 4; i++) {
+		Grace.move(100);	
+		Grace.turn(90);
+		Grace.penUp();
+		Grace.turn(180);
+		Grace.move(50);
+		Grace.penDown();
+		for (int j = 0; j < 4; j++) {
+		Grace.move(100);
+		Grace.turn(90);
+		}
 		
+		}
 		
-	}
-}
+	}}
