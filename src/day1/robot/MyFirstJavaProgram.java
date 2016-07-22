@@ -13,7 +13,7 @@ public class MyFirstJavaProgram {
 		Grace.sparkle();
 		Grace.penDown();
 		Grace.setRandomPenColor();
-		Grace.
+	
 		for (int i = 0; i < 4; i++) {
 		Grace.move(100);	
 		Grace.turn(90);
